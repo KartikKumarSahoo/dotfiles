@@ -1,0 +1,132 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "Nord",
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "cSpell.userWords": [
+    "CHECKMARK",
+    "Datapoints",
+    "Jeypore",
+    "Kartik",
+    "Odia",
+    "Odisha",
+    "Prefetch",
+    "Sahoo",
+    "Unmount",
+    "checkmarks",
+    "datapoint",
+    "headlessui",
+    "kompose",
+    "middlewares",
+    "mutators",
+    "nestjs",
+    "perfdp",
+    "prebuild",
+    "satcheljs",
+    "sessiondata",
+    "upsell"
+  ],
+  "editor.accessibilitySupport": "off",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 0,
+  // "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.tabSize": 8,
+  "editor.formatOnSave": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.sideBar.location": "right",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderControlCharacters": true,
+  "git.confirmSync": false,
+  "tabnine.experimentalAutoImports": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 15,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "git.enableSmartCommit": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontWeight": "600",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "projectManager.git.baseFolders": ["$home/Sources"],
+  "tailwindCSS.emmetCompletions": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "storage.modifier" //static keyword
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrap": "off",
+  "editor.wordWrapColumn": 100,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "kite.showWelcomeNotificationOnStartup": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.linkedEditing": true,
+  "webhint.enableTelemetry": "enabled",
+  "python.languageServer": "Microsoft",
+  "editor.suggest.showStatusBar": true,
+  "workbench.startupEditor": "welcomePage",
+  "codestream.email": "kartikmca09@gmail.com",
+  "files.defaultLanguage": "typescript",
+  "editor.cursorStyle": "line",
+  "editor.insertSpaces": false,
+  "editor.lineNumbers": "relative",
+  "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+
+  /* VIM settings */
+  "vim.surround": true,
+  "vim.autoindent": true,
+  "vim.easymotion": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.leader": " ",
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "editor.inlineSuggest.enabled": true,
+  "editor.cursorSurroundingLines": 10
+}
